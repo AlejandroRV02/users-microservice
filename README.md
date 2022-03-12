@@ -72,4 +72,5 @@ Once pulled, you need to run the next command
     - docker run -it --name users -p 6000:6000 alejandrorv/users-microservice
 
 You can change the first option for the local port if it causes any conflict
+
 Flag --name is also optional
